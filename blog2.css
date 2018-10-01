@@ -1,0 +1,49 @@
+#fundo1{
+	background-color: #f76162;
+}
+#fundo2{
+	background-color: #c84e4d;
+}
+#fundo3{
+  background-color: #efe7e8;
+}
+section, article{
+  background-color: #efe7e8;
+}
+footer{
+  background-color: #f76162;
+  text-align: center;
+}
+h1, em, p, h2, h6, h5, h4{
+  margin: 0;
+}
+#d{
+  padding: 40;
+}
+body{
+  display: block;
+  margin: 0px;
+}
+h3{
+    margin: 2px;
+    color: rgb(36, 3, 3);
+}
+#letra{
+  color: white;
+}
+#capslock{
+  text-transform: uppercase;
+}
+#tamanho{
+  font-size: 20px;
+}
+#tam{
+    font-size: 40px;
+    text-shadow: 1px 1px 5px rgb(48, 3, 3);
+}
+#p1{
+    text-indent: 50px;
+    width: 1300px;
+    text-align: left;
+    text-align: justify
+}
